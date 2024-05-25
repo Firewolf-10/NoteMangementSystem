@@ -1,0 +1,88 @@
+html {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+    height: 100vh;
+}
+
+body {
+    margin: 0;
+    height: 100%;
+    
+}
+
+#main-Div {
+    margin: 0;
+    height: 100%;
+    width: 100%;
+    background-color: #000000;
+    max-width: 100%;
+}
+
+.login-body {
+	height: 215px !important;
+}
+
+.card {
+    max-height: 300px;
+}
+
+#registrationForm {
+    width: 90%;
+}
+
+#email-submit {
+    margin-top: 10px;
+}
+
+.notes-Div, .note-creation-Div {
+	height: 100%;
+}
+
+section {
+	height: 100%;
+}
+
+.notes-card {
+	max-width: 250px;
+	max-height: 250px;
+	min-width: 250px;
+	min-height: 250px;
+}
+
+.card-title {
+    height: 25px;
+    overflow: hidden;
+}
+
+.notes-card-body {
+	height: 125px;
+}
+
+.card-text {
+	height: 100%;
+	overflow: hidden;
+}
+
+.card-footer {
+	height: 50px;
+	overflow: hidden;
+}
+
+.note-delete {
+	margin-left: 10px;
+}
+
+.note-create-card {
+	height: 460px;
+	max-height: 500px !important;
+	border:none;
+}
+
+.note-form {
+	width: 70%;
+	margin-bottom: 20px;
+}
